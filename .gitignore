@@ -1,0 +1,17 @@
+# Virtual Environment
+nyc-taxi-etl-env/
+
+# Secrets - NEVER commit this!
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Data
+*.parquet
+
+# OS
+.DS_Store
+Thumbs.db

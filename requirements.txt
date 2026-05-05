@@ -1,0 +1,17 @@
+certifi==2026.4.22
+charset-normalizer==3.4.7
+greenlet==3.5.0
+idna==3.13
+numpy==2.4.4
+pandas==2.2.3
+psycopg2-binary==2.9.10
+pyarrow==24.0.0
+python-dateutil==2.9.0.post0
+python-dotenv==1.0.1
+pytz==2026.2
+requests==2.32.3
+six==1.17.0
+SQLAlchemy==2.0.38
+typing_extensions==4.15.0
+tzdata==2026.2
+urllib3==2.6.3
