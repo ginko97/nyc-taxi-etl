@@ -1,7 +1,7 @@
-# NYC Taxi ETL Pipeline - Project 1
+# NYC Taxi ETL Pipeline
 
 ## Overview
-Python ETL pipeline that ingests NYC Yellow Taxi data (3M+ rows) into Supabase (PostgreSQL).
+Python ETL pipeline that ingests NYC Yellow Taxi data (1M rows) into Supabase (PostgreSQL).
 
 ## Architecture
 - **Raw Layer**: Raw parquet data loaded into `raw.taxi_trips`
